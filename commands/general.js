@@ -13,7 +13,7 @@
 * @description The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier
 * @link <>
 * @version 1.0.0
-s
+
 © 2024 SAVIYA-MD. All rights reserved.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
